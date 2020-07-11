@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Romulo Messias
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulomessias/)](https://www.linkedin.com/in/romulomessias/)
 [![Email Badge](https://img.shields.io/badge/-Email-lightgray?style=flat-square&logo=icloud&logoColor=white&link=mailto:romulomessias@me.com)](mailto:romulomessias@me.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_romulomessias/)](https://www.instagram.com/_romulomessias/)
 
-Hi there 👋, my name is Romulo and I'm front-end developer at [@redventures](https://www.redventures.com)
+Hi there 👋, my name is Romulo and I'm front-end developer
+
+- 🔭 I’m currently working at [@redventures](https://www.redventures.com)
+- 🌱 I’m currently learning SwiftUI
 
