@@ -21,4 +21,4 @@ Hi there 👋, my name is Romulo and I'm front-end developer
 
 - 🔭 I’m currently working at [@redventures](https://www.redventures.com)
 - 🌱 I’m currently learning SwiftUI
-- 🧐 and I’m trying to understand Dark
+- 🇩🇪 und Deutsch lernen
