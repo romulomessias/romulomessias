@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 Hi there 👋, my name is Romulo and I'm front-end developer
 
-- 🔭 I’m currently working at [@redventures](https://www.redventures.com)
+- 🔭 I’m currently working at [@belvo](https://www.belvo.com)
 - 🌱 I’m currently learning SwiftUI
 - 🇩🇪 und Deutsch lernen
