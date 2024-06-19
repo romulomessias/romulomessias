@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_romulomessias/)](https://www.instagram.com/1romulomessias/)
 
 Hi there 👋, my name is Romulo and I'm front-end developer
-
-- 🔭 I’m currently working at [@belvo](https://www.belvo.com)
-- 🌱 I’m currently learning SwiftUI
+- 🐶 lover
+- 🌱 code ios apps on my free time
 - 🇩🇪 und Deutsch lernen
